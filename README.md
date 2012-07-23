@@ -1,0 +1,1 @@
+Técnica para posicionar o footer no final da página
